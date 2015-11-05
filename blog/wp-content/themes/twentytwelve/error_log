@@ -1,0 +1,1 @@
+[08-Oct-2015 02:16:58 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/woofwarr/public_html/blog/wp-content/themes/twentytwelve/index.php on line 17
