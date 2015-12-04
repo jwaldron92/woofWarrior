@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dog Quiz/QuizViewController.swift"
+            timestampString = "465167022.223601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "QuizViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.segmentedControls.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;ObjectiveC.UIButton&gt;&gt;"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167510.972113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.segmentedControls.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;ObjectiveC.UIButton&gt;&gt;"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167510.972228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.init (Dog_Quiz.QuizViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Dog_Quiz.QuizViewController"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167510.972348"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "267">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.init (Dog_Quiz.QuizViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Dog_Quiz.QuizViewController"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167510.972453"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dog Quiz/QuizViewController.swift"
+            timestampString = "465167510.683545"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "QuizViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.segmentedControls.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;ObjectiveC.UIButton&gt;&gt;"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.039305"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.segmentedControls.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;ObjectiveC.UIButton&gt;&gt;"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.03961"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.init (Dog_Quiz.QuizViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Dog_Quiz.QuizViewController"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.039773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "267">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.init (Dog_Quiz.QuizViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Dog_Quiz.QuizViewController"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.039963"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dog Quiz/QuizViewController.swift"
+            timestampString = "465167510.683545"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "QuizViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.(model in _80BEE48CB9F519C5EC426C68B348A7C4).getter : Swift.ImplicitlyUnwrappedOptional&lt;Dog_Quiz.Model&gt;"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.041794"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.(model in _80BEE48CB9F519C5EC426C68B348A7C4).setter : Swift.ImplicitlyUnwrappedOptional&lt;Dog_Quiz.Model&gt;"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.041938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.init (Dog_Quiz.QuizViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Dog_Quiz.QuizViewController"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.042178"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "297">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dog_Quiz.QuizViewController.init (Dog_Quiz.QuizViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Dog_Quiz.QuizViewController"
+                  moduleName = "Dog Quiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jjwInNY/Documents/Working/WoofWarrior/tech/app/untitled%20folder/Dog%20Quiz/Dog%20Quiz/QuizViewController.swift"
+                  timestampString = "465167511.042377"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "245">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dog Quiz/QuizViewController.swift"
+            timestampString = "465232844.134667"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "submitGuess(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

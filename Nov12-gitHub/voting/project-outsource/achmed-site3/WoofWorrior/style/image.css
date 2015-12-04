@@ -1,0 +1,35 @@
+.main {
+
+    display: table;
+    margin: 0 auto;
+    float:left;
+    overflow: hidden;
+}
+
+.container{
+    overflow: hidden;
+}
+
+.image{
+    width: 50%;
+    height: 50%;
+    overflow: hidden;
+    white-space: nowrap;
+    display:block;
+    margin:20px;
+    float:left;
+}
+
+.text{
+
+    display: block;
+}
+
+.vote {
+    display: list-item;
+}
+
+.button
+{
+    display: inline-block;
+}
